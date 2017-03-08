@@ -2,6 +2,7 @@ using System;
 
 namespace WizardNinjaSamurai
 {
+    // ADDING A COMMENT TO TEST GIT
     public class Human
     {
        public string name = "";
